@@ -27,7 +27,7 @@ Abaixo estão listadas as principais tecnologias, frameworks e tópicos que ser�
 | **Front-end** | HTML5, CSS3, JavaScript (ES6+), React, Hooks, Gerenciamento de Estado. |
 | **Back-end** | Node.js, Express, REST APIs, Autenticação (JWT). |
 | **Banco de Dados** | SQL (MySQL ou PostgreSQL), NoSQL (MongoDB), Mongoose/Sequelize. |
-| **Ferramentas** | Git, GitHub, VS Code, Postman, Metodologias Ágeis. |
+| **Ferramentas** | Git, GitHub, VS Code, Metodologias Ágeis. |
 
 ---
 
@@ -50,7 +50,7 @@ Se você deseja explorar os projetos e exercícios localmente, siga os passos ab
 
 ### Pré-requisitos
 
-* **Node.js e npm** (Versão recomendada: 18+)
+* **Node.js e npm** 
 * **Git**
 
 ### Passos
@@ -78,12 +78,14 @@ Se você deseja explorar os projetos e exercícios localmente, siga os passos ab
 
 ---
 
+
 ## ✒️ Autor e Contato
 
+| Informações | Contato |
 | :--- | :--- |
 | **Autor(a)** | **Débora Campos** |
 | **GitHub** | [@deboracamposs](https://github.com/deboracamposs) |
-| **LinkedIn** | (https://www.linkedin.com/in/debora-campos-34515a1b9/) |
+| **LinkedIn** | ((https://www.linkedin.com/in/debora-campos-34515a1b9/)) |
 
 ## ✅ Licença
 
