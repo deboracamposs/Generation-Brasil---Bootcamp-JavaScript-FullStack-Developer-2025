@@ -85,7 +85,7 @@ Se você deseja explorar os projetos e exercícios localmente, siga os passos ab
 | :--- | :--- |
 | **Autor(a)** | **Débora Campos** |
 | **GitHub** | [@deboracamposs](https://github.com/deboracamposs) |
-| **LinkedIn** | (https://www.linkedin.com/in/debora-campos-34515a1b9/) |
+| **LinkedIn** | https://www.linkedin.com/in/debora-campos-34515a1b9/ |
 
 ## ✅ Licença
 
