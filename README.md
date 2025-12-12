@@ -1,7 +1,7 @@
 # 🚀 Generation Brasil - Bootcamp JavaScript FullStack Developer 2025
 
 [![Badge de Status](https://img.shields.io/badge/Status-Em%20Andamento-green)](https://github.com/deboracamposs/Generation-Brasil---Bootcamp-JavaScript-FullStack-Developer-2025/tree/main)
-[![Linguagem Principal](https://img.shields.io/badge/Linguagem-JavaScript-yellow)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Linguagem Principal](https://img.shields.io/badge/Linguagem-JavaScript%20/%20TypeScript-blue)](https://www.typescriptlang.org/)
 
 ---
 
