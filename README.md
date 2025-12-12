@@ -7,7 +7,7 @@
 
 ## 🌟 Sobre o Repositório
 
-Este repositório é dedicado ao registro e organização de todo oS exercícios e desafios desenvolvidos durante o **Bootcamp JavaScript FullStack Developer 2025** oferecido pela Generation Brasil.
+Este repositório é dedicado ao registro e organização de todo os exercícios e desafios desenvolvidos durante o **Bootcamp JavaScript FullStack Developer 2025** oferecido pela Generation Brasil.
 
 O objetivo principal é:
 
@@ -80,11 +80,10 @@ Se você deseja explorar os projetos e exercícios localmente, siga os passos ab
 
 ## ✒️ Autor e Contato
 
-| Detalhe | Informação |
 | :--- | :--- |
 | **Autor(a)** | **Débora Campos** |
 | **GitHub** | [@deboracamposs](https://github.com/deboracamposs) |
-| **LinkedIn** | [[https://www.linkedin.com/in/seu-perfil-aqui/](https://www.linkedin.com/in/debora-campos-34515a1b9/)) |
+| **LinkedIn** | (https://www.linkedin.com/in/debora-campos-34515a1b9/) |
 
 ## ✅ Licença
 
