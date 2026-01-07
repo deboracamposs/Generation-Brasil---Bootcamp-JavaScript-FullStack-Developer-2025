@@ -2,7 +2,7 @@
 
 [![Badge de Status](https://img.shields.io/badge/Status-Em%20Andamento-green)](https://github.com/deboracamposs/Generation-Brasil---Bootcamp-JavaScript-FullStack-Developer-2025/tree/main)
 [![Linguagem Principal](https://img.shields.io/badge/Linguagem-JavaScript%20/%20TypeScript-blue)](https://www.typescriptlang.org/)
-[![Adicional](![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white))]
+[![MySQL](https://img.shields.io/badge/MySQL-Database-orange)](https://www.mysql.com/)
 
 ---
 
